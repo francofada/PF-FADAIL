@@ -16,12 +16,13 @@ body {
 #index {
   width: 100%;
   height: 80px;
-  position: absolute;
+  background-color: #2e2f34;
   z-index: 1;
   padding: 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  justify-content: end;
 }
 #index .menu #btn-menu {
   display: none;
@@ -478,7 +479,7 @@ main .cover-side .cover-right .row h6 {
 #resumen {
   width: 100%;
   height: 80px;
-  position: absolute;
+  background-color: #2e2f34;
   padding: 50px;
   display: flex;
   justify-content: end;
@@ -768,7 +769,7 @@ main .cover-side .cover-right .row h6 {
 #portafolio {
   width: 100%;
   height: 80px;
-  position: absolute;
+  background-color: #2e2f34;
   padding: 50px;
   display: flex;
   justify-content: end;
@@ -867,7 +868,7 @@ main .cover-side .cover-right .row h6 {
 #sobremi {
   width: 100%;
   height: 80px;
-  position: absolute;
+  background-color: #2e2f34;
   padding: 50px;
   display: flex;
   justify-content: end;
@@ -970,7 +971,7 @@ main .cover-side .cover-right .row h6 {
 #formulario {
   width: 100%;
   height: 80px;
-  position: absolute;
+  background-color: #2e2f34;
   padding: 50px;
   display: flex;
   justify-content: end;
